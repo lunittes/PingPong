@@ -1,2 +1,0 @@
-# PingPong
-Roborisen WEB
